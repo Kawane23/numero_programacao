@@ -11,7 +11,7 @@ st.set_page_config(page_title="Programação de Obras", page_icon="🛣️", lay
 # ========================= CONFIG =========================
 #BASES_JSON_URL_FALLBACK = "https://www.dropbox.com/scl/fi/x19ep7elgqnj3b1oibbmr/bases_km.json?rlkey=fgcifm3j09a0d4qequq8d6mmh&st=qt0cgi3f&dl=1"
 
-BASES_JSON_URL_FALLBACK = "https://grupoecorodovias-my.sharepoint.com/:u:/g/personal/kawane_florindo_ecovias_com_br/IQBAN33niuSyS40fqdMEe6AnAQYlXmw96MGO4du-sUhxjWM?download=1"
+BASES_JSON_URL_FALLBACK = "https://grupoecorodovias-my.sharepoint.com/:u:/g/personal/kawane_r_florindo_ecovias_com_br/IQAiDHbvra3HRZziJPqFXVSWAWsKMm52CImMVRsmKDPz2XY?download=1"
 
 
 DATA_DIR = Path("data")
