@@ -195,7 +195,7 @@ if st.sidebar.button("Atualizar base de dados"):
     except Exception:
         pass
     st.success("Base local limpa. Recarregando...")
-    st.experimental_rerun()
+    st.rerun()
 
 # ========================= CARREGAMENTO =========================
 error_banner = None
